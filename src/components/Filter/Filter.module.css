@@ -1,0 +1,8 @@
+.filter__label input {
+  margin-left: 10px;
+  font-size: 20px;
+  border-radius: 5px;
+}
+.filter__label span {
+  font-size: 20px;
+}
